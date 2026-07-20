@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
