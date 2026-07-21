@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
