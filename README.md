@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
 | ------- |
