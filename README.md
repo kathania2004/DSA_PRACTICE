@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
