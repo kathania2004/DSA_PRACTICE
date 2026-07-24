@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
