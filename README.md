@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1720-decode-xored-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1720-decode-xored-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
+| [1720-decode-xored-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
