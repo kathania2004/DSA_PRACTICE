@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
