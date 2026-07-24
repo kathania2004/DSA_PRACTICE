@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
