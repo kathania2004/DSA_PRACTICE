@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
+| [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
