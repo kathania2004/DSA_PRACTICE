@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
