@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
