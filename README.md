@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
@@ -370,4 +372,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
