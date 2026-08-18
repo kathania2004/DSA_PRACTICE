@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
