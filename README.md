@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
