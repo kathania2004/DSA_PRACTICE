@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
