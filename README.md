@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1991-find-the-middle-index-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
 |  |
 | ------- |
