@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0389-find-the-difference) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
