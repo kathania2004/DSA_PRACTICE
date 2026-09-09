@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Union-Find
 |  |
 | ------- |
@@ -528,8 +533,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## DP on Trees
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
