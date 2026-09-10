@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
