@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
