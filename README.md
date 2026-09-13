@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
