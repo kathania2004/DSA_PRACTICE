@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
@@ -669,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
