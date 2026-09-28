@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
