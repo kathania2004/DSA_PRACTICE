@@ -1,18 +1,27 @@
 class Solution {
+    HashMap<Integer,Integer> memo = new HashMap<>();
     public int climbStairs(int n) {
-        if (n <= 2) {
-            return n;
+        return fun(0,n,memo);
+    }
+    int fun(int i, int n , HashMap<Integer,Integer> memo){
+        if(i == n){
+            return 1;
         }
 
-        int first = 1;
-        int second = 2;
-
-        for (int i = 3; i <= n; i++) {
-            int current = first + second;
-            first = second;
-            second = current;
+        if(i > n){
+            return 0;
         }
 
-        return second;
+        if(memo.containsKey(i)){
+            return memo.get(i);
+        }
+
+        int a1 = fun(i + 1,n,memo);
+        int a2 = fun(i + 2,n,memo);
+
+        int ans = a1 + a2;
+
+        memo.put(i,ans);
+        return ans;
     }
 }
