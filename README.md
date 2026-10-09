@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
 | ------- |
