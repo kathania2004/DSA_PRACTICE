@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
