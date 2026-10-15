@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -759,4 +761,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1114-print-in-order) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
