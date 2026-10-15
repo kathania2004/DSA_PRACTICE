@@ -1,40 +1,42 @@
 class Solution {
     public boolean canPartition(int[] nums) {
         int n = nums.length;
+
         int totalSum = 0;
 
-        for (int num : nums) {
+        for(int num : nums){
             totalSum = totalSum + num;
         }
 
-        if (totalSum % 2 != 0) {
+        if(totalSum % 2 != 0){
+            return false;
+        }
+        int target = totalSum / 2;
+
+        Boolean[][] dp = new Boolean[n][target + 1];
+
+        return solve(nums,0,target,dp);
+    }
+
+    private boolean solve(int[] nums,int index,int target,Boolean[][] dp){
+        if(target == 0){
+            return true;
+        }
+        if(index == nums.length || target < 0){
             return false;
         }
 
-        int target = totalSum / 2;
-
-        boolean[][] dp = new boolean[n + 1][target + 1];
-
-        // Base case: sum == 0
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = true;
+        if(dp[index][target] != null){
+            return dp[index][target];
         }
 
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = 1; j <= target; j++) {
+        //choice
+        boolean take = solve(nums,index + 1,target - nums[index],dp);
 
-                // Not take
-                dp[i][j] = dp[i + 1][j];
+        boolean notTake = solve(nums,index + 1,target,dp);
 
-                // Take
-                if (nums[i] <= j) {
-                    dp[i][j] = dp[i][j] ||
-                               dp[i + 1][j - nums[i]];
-                }
-            }
-        }
+        dp[index][target] = take || notTake;
 
-        return dp[0][target];
-        
+        return dp[index][target];
     }
 }
