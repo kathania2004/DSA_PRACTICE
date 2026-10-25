@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
