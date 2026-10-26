@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3731-find-missing-elements) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -724,11 +726,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
