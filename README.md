@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -821,4 +825,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0062-unique-paths) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
