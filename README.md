@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bracket Sequences
 |  |
@@ -810,10 +813,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
