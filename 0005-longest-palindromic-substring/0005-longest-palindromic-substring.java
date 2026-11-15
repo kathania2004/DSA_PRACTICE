@@ -1,31 +1,34 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String res = "";
-        int maxlength = 0;
-        for(int left = 0;left < s.length();left++){
-            for(int right = left;right < s.length();right++){
-                
-                if(isPallindrome(s,left,right)){
-                    int length = right - left + 1;
-                    if(length > maxlength){
-                        maxlength = length;
-                        res = s.substring(left,right + 1);
-                    }
+       int n = s.length();
+       int maxLen = 0;
+       int idx = 0;
 
-                }
+       boolean[][] dp = new boolean[n][n];
+       for(int i = 0;i < n;i++){
+        Arrays.fill(dp[i],false);
+       } 
+       for(int i = 0;i < n;i++){
+        dp[i][i] = true;
+        maxLen = 1;
+       }
+
+       for(int l = 2;l <= n;l++){
+        for(int i = 0;i < n - l + 1;i++){
+            int j = i + l - 1;
+            if(s.charAt(i) == s.charAt(j) && l == 2){
+                dp[i][j] = true;
+                maxLen = 2;
+                idx = i;
+            }else if(s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]){
+                dp[i][j] = true;
+                maxLen = j - i + 1;
+                idx = i;
+            }else{
+                dp[i][j] = false;
             }
         }
-        return res;
-    }
-        
-    static boolean isPallindrome(String s,int left,int right){
-            while(left <= right){
-                if(s.charAt(left) != s.charAt(right)){
-                    return false;
-                }
-                left++;
-                right--;
-            }
-        return true;
+       }
+       return s.substring(idx,idx + maxLen);
     }
 }
