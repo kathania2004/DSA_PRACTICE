@@ -10,7 +10,7 @@ class Solution {
         return solve(0, n - 1, s);
     }
     private int solve(int i,int j,String s){
-        if(i >= j){
+        if(i > j){
             return 0;
         }
         if(dp[i][j] != -1){
