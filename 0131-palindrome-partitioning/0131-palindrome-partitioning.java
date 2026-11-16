@@ -1,36 +1,55 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>> res = new ArrayList<>();
-        List<String> diary = new ArrayList<>();
-        backtrack(s,0,diary,res);
-        return res;
-        
+       int n = s.length();
+        boolean[][] dp = new boolean[n][n];
+
+        // Single characters are palindromes
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = true;
+        }
+
+        // Build palindrome DP table
+        for (int l = 2; l <= n; l++) {
+            for (int i = 0; i <= n - l; i++) {
+                int j = i + l - 1;
+
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (l == 2 || dp[i + 1][j - 1]) {
+                        dp[i][j] = true;
+                    }
+                }
+            }
+        }
+
+        List<List<String>> result = new ArrayList<>();
+        List<String> currPartition = new ArrayList<>();
+
+        solve(s, 0, currPartition, dp, result);
+
+        return result;
     }
-    static void backtrack(String s,int start,List<String> diary,List<List<String>> res){
-        if(start == s.length()){
-            res.add(new ArrayList<>(diary));
+
+    private void solve(String s, int i,
+                       List<String> currPartition,
+                       boolean[][] dp,
+                       List<List<String>> result) {
+
+        if (i == s.length()) {
+            result.add(new ArrayList<>(currPartition));
             return;
         }
 
-        for(int end = start;end < s.length();end++){
-            if(isPallindrome(s,start,end)){
-                //choice1 add
-                diary.add(s.substring(start,end + 1));
-                backtrack(s,end + 1,diary,res);
-                diary.remove(diary.size() - 1);
+        for (int j = i; j < s.length(); j++) {
+
+            if (dp[i][j]) {
+
+                currPartition.add(s.substring(i, j + 1));
+
+                solve(s, j + 1, currPartition, dp, result);
+
+                currPartition.remove(currPartition.size() - 1);
             }
         }
     }
-    static boolean isPallindrome(String s,int left,int right){
-        while(left < right){
 
-            if(s.charAt(left) != s.charAt(right)){
-                return false;
-            }
-
-            left++;
-            right--;
-        }
-        return true;
-    }
 }
