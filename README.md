@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
