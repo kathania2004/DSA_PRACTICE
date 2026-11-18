@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
+| [0179-largest-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0290-word-pattern) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0670-maximum-swap](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
