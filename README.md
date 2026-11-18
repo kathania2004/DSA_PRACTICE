@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -855,4 +859,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
