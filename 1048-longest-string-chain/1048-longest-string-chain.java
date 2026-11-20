@@ -1,14 +1,21 @@
 class Solution {
-    int n;
-    int[][] dp;
     public int longestStrChain(String[] words) {
-        n = words.length;
+        int n = words.length;
         Arrays.sort(words,(a,b) -> a.length() - b.length());
-        dp = new int[n][n];
+        int[] dp = new int[n];
         for(int i = 0;i < n;i++){
-            Arrays.fill(dp[i],-1);
+            Arrays.fill(dp,1);
         }
-        return solve(words,-1,0);
+        int maxLis = 1;
+        for(int i = 0;i < n;i++){
+            for(int j = 0;j< i;j++){
+                if(isPred(words[j],words[i])){
+                    dp[i] = Math.max(dp[i],dp[j] + 1);
+                    maxLis = Math.max(maxLis,dp[i]);
+                }
+            }
+        }
+        return maxLis;
     }
     private boolean isPred(String prev,String curr){
         int m = prev.length();
@@ -26,23 +33,5 @@ class Solution {
         }
         return i == m;
     }
-    private int solve(String[] words,int p,int i){
-        if(i == n){
-            return 0;
-        }
-
-        if(p != -1 && dp[p][i] != -1){
-            return dp[p][i];
-        }
-        int take = 0;
-
-        if(p == -1 || isPred(words[p],words[i])){
-            take = 1 + solve(words,i,i + 1);
-        }
-        int skip = solve(words,p,i+1);
-        if(p != -1){
-            return dp[p][i] = Math.max(take,skip);
-        }
-        return Math.max(take,skip);
-    }
+    
 }
