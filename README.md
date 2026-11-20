@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0917-reverse-only-letters) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
