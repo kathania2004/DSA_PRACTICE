@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
+| [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
