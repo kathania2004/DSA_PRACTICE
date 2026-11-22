@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
