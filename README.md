@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
