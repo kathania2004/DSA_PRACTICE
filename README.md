@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
