@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
+| [0518-coin-change-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
 ## Minimax
 |  |
 | ------- |
