@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
+| [2370-longest-ideal-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2370-longest-ideal-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2370-longest-ideal-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2370-longest-ideal-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2370-longest-ideal-subsequence) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
