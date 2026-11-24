@@ -1,65 +1,57 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() == 0 || t.length() == 0) {
+        int n = s.length();
+
+        if (t.length() > n) {
             return "";
         }
 
-        int[] freq = new int[128];
+        HashMap<Character, Integer> map = new HashMap<>();
 
-        // Store frequency of characters required from t
-        for (char c : t.toCharArray()) {
-            freq[c]++;
+        for (char ch : t.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        int left = 0;
-        int right = 0;
+        int reqCount = t.length();
+        int i = 0;
+        int j = 0;
 
-        int required = t.length();
+        int winSize = Integer.MAX_VALUE;
+        int startIndex = 0;
 
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
+        while (j < n) {
+            char ch = s.charAt(j);
 
-        while (right < s.length()) {
-
-            char r = s.charAt(right);
-
-            // If r is still needed
-            if (freq[r] > 0) {
-                required--;
+            if (map.getOrDefault(ch, 0) > 0) {
+                reqCount--;
             }
 
-            // Add r to the window
-            freq[r]--;
+            map.put(ch, map.getOrDefault(ch, 0) - 1);
 
-            right++;
+            while (reqCount == 0) {
+                int currWinSize = j - i + 1;
 
-            // Current window contains all characters of t
-            while (required == 0) {
-
-                // Update minimum window
-                if (right - left < minLen) {
-
-                    minLen = right - left;
-                    start = left;
+                if (winSize > currWinSize) {
+                    winSize = currWinSize;
+                    startIndex = i;
                 }
 
-                char l = s.charAt(left);
+                char left = s.charAt(i);
 
-                // Remove l from the window
-                if (freq[l] >= 0) {
-                    required++;
+                map.put(left, map.getOrDefault(left, 0) + 1);
+
+                if (map.get(left) > 0) {
+                    reqCount++;
                 }
 
-                freq[l]++;
-
-                left++;
+                i++;
             }
+
+            j++;
         }
 
-        if (minLen == Integer.MAX_VALUE) {
-            return "";
-        }
-
-        return s.substring(start, start + minLen);
+        return winSize == Integer.MAX_VALUE
+            ? ""
+            : s.substring(startIndex, startIndex + winSize);
     }
 }
