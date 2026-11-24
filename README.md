@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1328-break-a-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2370-longest-ideal-subsequence](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2370-longest-ideal-subsequence) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
 |  |
