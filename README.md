@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Divide and Conquer
 |  |
 | ------- |
