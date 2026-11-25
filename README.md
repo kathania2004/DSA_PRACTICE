@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0371-sum-of-two-integers) |
@@ -961,4 +962,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0881-boats-to-save-people) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
