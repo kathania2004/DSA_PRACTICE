@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1720-decode-xored-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
