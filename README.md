@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1048-longest-string-chain) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0767-reorganize-string) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
