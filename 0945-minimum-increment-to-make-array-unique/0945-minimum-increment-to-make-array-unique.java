@@ -1,16 +1,30 @@
 class Solution {
     public int minIncrementForUnique(int[] nums) {
         int n = nums.length;
-        int result = 0;
-        Arrays.sort(nums);
+        int maxEle = 0;
+
+        for(int num : nums){
+            maxEle = Math.max(maxEle,num);
+        }
         
-        for(int i = 1 ; i < n;i++){
-            if(nums[i] <= nums[i - 1]){
-                result += nums[i - 1] - nums[i] + 1;
-                nums[i] = nums[i - 1] + 1; 
+        int[] freq = new int[maxEle + n];
+
+        for(int num : nums){
+            freq[num]++;
+        }
+        int moves = 0;
+
+        for(int i = 0 ; i < n + maxEle ;i++){
+            if(freq[i] <= 1){
+                continue;
             }
 
+            int extra = freq[i] - 1;
+            freq[i + 1] += extra;
+            freq[i] = 1;
+            moves += extra;
+ 
         }
-        return result;
+        return moves;
     }
 }
