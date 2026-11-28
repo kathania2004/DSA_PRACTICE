@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1720-decode-xored-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
