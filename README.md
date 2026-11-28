@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2409-count-days-spent-together](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kathania2004/DSA_PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/kathania2004/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
 ## Divide and Conquer
 |  |
