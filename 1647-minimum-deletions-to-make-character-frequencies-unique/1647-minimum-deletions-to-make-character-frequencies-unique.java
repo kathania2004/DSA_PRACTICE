@@ -5,15 +5,14 @@ class Solution {
         for(char ch : s.toCharArray()){
             freq[ch - 'a']++;
         }
+        Arrays.sort(freq);
         int result = 0;
-        HashSet<Integer> set = new HashSet<>();
-        for(int i = 0;i < 26;i++){
-            while(freq[i] > 0 && set.contains(freq[i])){
-                freq[i]--;
-                result += 1;
-
+        for(int i = 24 ; i >= 0; i--){
+            if(freq[i] >= freq[i + 1]){
+                int prev = freq[i];
+                freq[i] = Math.max(0,freq[i + 1] - 1);
+                result += (prev - freq[i]);
             }
-            set.add(freq[i]);
         }
         return result;
     }
